@@ -327,6 +327,7 @@ body{
 }
 .services-content p {
     margin: .2rem 0 .8rem;
+    font-size: 0.7rem;
 }
 .services-content .btn {
     width: 8rem;
